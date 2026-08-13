@@ -161,8 +161,6 @@ Potential extensions include adding a configurable camera selector, a calibratio
 
 **Mehdi FERHAT**
 
-Mehdi FERHAT created the custom hand-tracking module and assembled this adapted version of the game with the assistance credited above.
-
 ## References
 
 [1]: https://github.com/flowasme/Floppy-Bird "Floppy-Bird source repository"
