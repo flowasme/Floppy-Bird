@@ -1,6 +1,6 @@
 # Floppy-Bird
 
-Floppy-Bird is an adapted, gesture-assisted version of a Flappy Bird-style Python game. The original game foundation comes from [LeonMarqs/Flappy-bird-python][6]. For this repository, **Mehdi FERHAT created the custom hand-tracking module**, while **Claude Sonnet 5 assisted with adapting the game integration so the original gameplay could work with that module**. The result combines a Pygame playfield with a live OpenCV camera preview: the tracked position of your index finger controls the bird’s vertical movement, while keyboard input starts the game, triggers flaps, and restarts a round.
+Floppy-Bird is an adapted, gesture-assisted version of a Flappy Bird-style Python game. The original game foundation comes from [LeonMarqs/Flappy-bird-python][6]. For this repository, **I created the custom hand-tracking module**, while **Claude Sonnet 5 assisted with adapting the game integration so the original gameplay could work with that module**. The result combines a Pygame playfield with a live OpenCV camera preview: the tracked position of your index finger controls the bird’s vertical movement, while keyboard input starts the game, triggers flaps, and restarts a round.
 
 > **Keep the bird airborne, pass as many pipes as possible, and beat your saved high score.**
 
